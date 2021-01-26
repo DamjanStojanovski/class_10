@@ -1,0 +1,6 @@
+<dog>
+    <name>Rex</name>
+    <breed>German shepard</breed>
+    <owner>Damjan</owner>
+    <isAgressive>false</isAgressive>
+</dog>
